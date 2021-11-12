@@ -9,7 +9,7 @@ Blackjack mini game for android. Has all the elements of the game:
 There is betting functionality; the player starts off with 1000 credits.
 
 <span>
-<img src="/Screenshots/StartScreen.jpg" width="300px">
-<img src="/Screenshots/Gameplay1.jpg" width="300px">
-<img src="/Screenshots/Gameplay2.jpg" width="300px">
+<img src="/Screenshots/StartScreen.jpg" width="250px">
+<img src="/Screenshots/Gameplay1.jpg" width="250px">
+<img src="/Screenshots/Gameplay2.jpg" width="250px">
 </span>
